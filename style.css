@@ -1,0 +1,45 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #ff5f7e, #ffb6c1);
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+
+.container {
+  padding: 40px 20px;
+}
+
+input, button {
+  padding: 12px 16px;
+  border-radius: 25px;
+  border: none;
+  margin-top: 12px;
+}
+
+button {
+  background-color: #ff1e56;
+  color: white;
+  cursor: pointer;
+}
+
+.month-card {
+  background: rgba(255,255,255,0.25);
+  border-radius: 20px;
+  padding: 20px;
+  margin: 25px auto;
+  max-width: 400px;
+}
+
+.month-card img {
+  width: 100%;
+  border-radius: 15px;
+  margin-top: 12px;
+}
+
+.letter {
+  max-width: 500px;
+  margin: auto;
+  line-height: 1.6;
+}
